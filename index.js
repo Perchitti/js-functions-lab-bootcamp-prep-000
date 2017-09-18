@@ -11,7 +11,7 @@ return ("Happy holidays!")
 
 function happyHolidayTo (string){
   var name = "you"
-  var holiday = "Independece Day"
+  var holiday = "Independence Day"
   {
     return (`Happy ${holiday}, ${name}!`)
   }
